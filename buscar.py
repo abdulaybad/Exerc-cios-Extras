@@ -1,5 +1,5 @@
 def busca(x):
-    data2 =open('D:\Abdu\Programação Python-C\Base de Dados\Recargas_OSH.txt')
+    data2 =open('')
     string_de_busca = str(x)
     string_split = string_de_busca.split()
     for lines in data2.readlines():
